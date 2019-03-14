@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>About</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+    <script src="main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <ul>
+        <li>
+            <a href="/">Home</a>
+            <a href="/contact">Contact</a>
+            <a href="/about">About</a>
+            <a href="/products">Product Search</a>
+        </li>
+    </ul>
+    <h1>Product Search</h1>
+    <input type="text" id="keyword" name="search">
+    <button>Search</button>
+    <ul id="products"></ul>
+</body>
+</html>
+
+<script>
+    $("button").on('click',()=>{
+        var keyword=$("#keyword").val();
+        $.ajax({
+            url:'/api/products/' + keyword,
+            success:function(products){
+                //alert(JSON.stringify(data))
+                products.forEach((product)=>{
+                    $("#products").append('<li>' + product.product_short_description + '</li>')
+                })
+            },
+            error:function(err){
+                alert(JSON.stringify(err))
+            }
+        })
+    })
+</script>

@@ -1,0 +1,3319 @@
+{
+    "response": {
+      "numberOfProducts": 36,
+      "start": 0,
+      "products": [
+        {
+          "product_short_description": "A super skinny style in her new favorite wash!",
+          "style_partno_unbxd": "2092425",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:06/16/2017;TCPProductArrivalDateCanadaStore:06/16/2017;TCPSwatchesCanadaStore:2092425_DA#SKY WASH;TCPSwatchesUSStore:2092425_DA#SKY WASH;TCPBazaarVoiceRating:4.1;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:14.0",
+          "imagename": "2092425_DA",
+          "sort_49004": 200200,
+          "style_long_description": "<li>Made of 80% cotton/18% polyester/2% spandex in our Sky wash</li><li>Adjustable button tabs at inner waist</li><li>Snap button closure with zipper fly sizes 4-7; button closure with zipper fly sizes 8-19</li><li>Contrast stitching</li><li>Belt loops</li><li>5-pocket styling in a skinny fit</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "06/16/2017",
+          "TCPProductArrivalDateUSStore": "06/16/2017",
+          "TCPColor": "DENIM",
+          "auxdescription": "SKY WASH",
+          "newest_score": 1497571200,
+          "TCPSwatchesCanadaStore": "2092425_DA#SKY WASH",
+          "product_long_description": "<li>Made of 80% cotton/18% polyester/2% spandex in our Sky wash</li><li>Adjustable button tabs at inner waist</li><li>Snap button closure with zipper fly sizes 4-7; button closure with zipper fly sizes 8-19</li><li>Contrast stitching</li><li>Belt loops</li><li>5-pocket styling in a skinny fit</li><li>Imported</li>",
+          "pop_score": 0.7930487,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:SpecialSizes:Denim:US;Girl:Bottoms:Denim:US;Girl:Denim:SuperSkinny:US",
+          "style_name": "Girls Basic Super Skinny Jeans - Sky Wash",
+          "uniqueId": "2092425_DA",
+          "style_partno": "2092425",
+          "TCPSwatchesUSStore": "2092425_DA#SKY WASH",
+          "product_name": "Girls Basic Super Skinny Jeans - Sky Wash",
+          "TCPBazaarVoiceRating": 4.1,
+          "seo_token": "Girls-Basic-Super-Skinny-Jeans---Sky-Wash-2092425-DA",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 5,
+          "catgroup_id_sequence": "61510_7;420073_200;420016_5",
+          "prodpartno": "2092425_DA",
+          "updatedate": "2018-08-05 14:17:05",
+          "TCPBazaarVoiceReviewCount": 14,
+          "sort_49010": 200007,
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "1001502",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2092425_DA.jpg"
+          ],
+          "favoritedcount": 3806,
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "her"
+          ],
+          "unbxd_prodpartno": "2092425_DA",
+          "unbxd_special_category": [
+            "Extended Sizes",
+            "Denim",
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Super Skinny"
+          ],
+          "catgroup_id": "61510;420073;420016",
+          "categoryLinkMap": [
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Super Skinny~girls-super-skinny-jeans~420016"
+          ],
+          "timeStamp_unbxd": 1533631259244,
+          "unbxdFeedId": "80827dec-ca71-42fe-ad59-4a98b3b25559",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Super Skinny",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Super Skinny"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim>Super Skinny",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420016|Girl>Denim>Super Skinny"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "47511>420015>420016",
+            "420016",
+            "420015",
+            "47511>49004",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2092425_DA"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Super Skinny Jeans - Sky Wash"
+          ],
+          "1_unbxd_text": [
+            "SKY WASH",
+            "her",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Super Skinny",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Super Skinny Jeans - Sky Wash",
+          "autosuggest_unstemmed": "Girls Basic Super Skinny Jeans - Sky Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2092425_DA",
+          "score": 42.261684,
+          "variants": []
+        },
+        {
+          "uniqueId": "2025025_572",
+          "favoritedcount": 4802,
+          "product_short_description": "The long and skinny of it is, she'll love these jeans!",
+          "style_partno_unbxd": "2025025",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:05/18/2014;TCPProductArrivalDateCanadaStore:05/30/2014;TCPSwatchesCanadaStore:2025025_572#VICTBLUWSH;TCPSwatchesUSStore:2025025_572#VICTBLUWSH;TCPBazaarVoiceRating:4.1;TCPFitMessageCanadaStore:Extended Sizes;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:38.0",
+          "imagename": "2025025_572",
+          "sort_49004": 200205,
+          "style_long_description": "<li>Made 80% cotton/18% polyester/2% spandex in our Victory Blue wash</li><li>Specially washed for softness and hand sanded for a cool, lived-in look</li><li>Snap closure with zipper fly for sizes 4-6X/7; button closure with zipper fly for sizes 8-14</li><li>Inner adjustable waist tabs for a custom fit</li><li>Five-pocket styling with super skinny leg opening</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "05/30/2014",
+          "TCPProductArrivalDateUSStore": "05/18/2014",
+          "TCPColor": "DENIM",
+          "auxdescription": "VICTBLUWSH",
+          "newest_score": 1400371200,
+          "TCPSwatchesCanadaStore": "2025025_572#VICTBLUWSH",
+          "product_long_description": "<li>Made 80% cotton/18% polyester/2% spandex in our Victory Blue wash</li><li>Specially washed for softness and hand sanded for a cool, lived-in look</li><li>Snap closure with zipper fly for sizes 4-6X/7; button closure with zipper fly for sizes 8-14</li><li>Inner adjustable waist tabs for a custom fit</li><li>Five-pocket styling with super skinny leg opening</li><li>Imported</li>",
+          "pop_score": 0.82963157,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:Denim:SuperSkinny:US;Place Shops:Denim2014:Girl:SSkinny:US;Girl:Bottoms:Denim:US;Girl:SpecialSizes:Denim:US",
+          "style_name": "Girls Basic Super Skinny Jeans - Victory Blue Wash",
+          "style_partno": "2025025",
+          "TCPSwatchesUSStore": "2025025_572#VICTBLUWSH",
+          "product_name": "Girls Basic Super Skinny Jeans - Victory Blue Wash",
+          "TCPBazaarVoiceRating": 4.1,
+          "seo_token": "Girls-Basic-Super-Skinny-Jeans---Victory-Blue-Wash-2025025-572",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 20,
+          "catgroup_id_sequence": "420016_20;342534_0;420073_205;61510_5",
+          "prodpartno": "2025025_572",
+          "updatedate": "2018-08-05 14:14:50",
+          "TCPBazaarVoiceReviewCount": 38,
+          "sort_49010": 200005,
+          "TCPFitMessageCanadaStore": "Extended Sizes",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "429765",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2025025_572.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_prodpartno": "2025025_572",
+          "unbxd_special_category": [
+            "Denim",
+            "Super Skinny",
+            "Bottoms",
+            "Denim",
+            "Extended Sizes",
+            "Denim"
+          ],
+          "catgroup_id": "420016;342534;420073;61510",
+          "categoryLinkMap": [
+            "Girl>Denim>Super Skinny~girls-super-skinny-jeans~420016",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510"
+          ],
+          "timeStamp_unbxd": 1533647657629,
+          "unbxdFeedId": "b6ed3bea-85d5-490d-a129-66b5d77a0b68",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Super Skinny",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Super Skinny"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl>Denim>Super Skinny",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420016|Girl>Denim>Super Skinny"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "420073",
+            "61510",
+            "47511>49010",
+            "47511>49010>61510",
+            "47511>420015>420016",
+            "420016",
+            "420015",
+            "47511>49004",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2025025_572"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Super Skinny Jeans - Victory Blue Wash"
+          ],
+          "1_unbxd_text": [
+            "VICTBLUWSH",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Super Skinny",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Super Skinny Jeans - Victory Blue Wash",
+          "autosuggest_unstemmed": "Girls Basic Super Skinny Jeans - Victory Blue Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2025025_572",
+          "score": 44.944965,
+          "variants": []
+        },
+        {
+          "product_short_description": "Super skinny style that she can wear anywhere!",
+          "style_partno_unbxd": "2082147",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:BLUE;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:05/28/2017;TCPProductArrivalDateCanadaStore:05/28/2017;TCPSwatchesCanadaStore:2082147_1303#LT INDIGO;TCPSwatchesUSStore:2082147_1303#LT INDIGO;TCPBazaarVoiceRating:4.0;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:10.0",
+          "imagename": "2082147_1303",
+          "sort_49004": 200200,
+          "style_long_description": "<li>Made of 80% cotton/18% polyester/2% spandex ringspun in our Light Indigo wash</li><li>Adjustable tabs at inner waist for a custom fit</li><li>Snap closure with zipper sizes 4-7; button closure with zipper sizes 8-16</li><li>Handsanding at front for a lived-in look</li><li>5-pocket styling</li><li>Super skinny leg opening</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "05/28/2017",
+          "TCPProductArrivalDateUSStore": "05/28/2017",
+          "TCPColor": "BLUE",
+          "auxdescription": "LT INDIGO",
+          "newest_score": 1495929600,
+          "TCPSwatchesCanadaStore": "2082147_1303#LT INDIGO",
+          "product_long_description": "<li>Made of 80% cotton/18% polyester/2% spandex ringspun in our Light Indigo wash</li><li>Adjustable tabs at inner waist for a custom fit</li><li>Snap closure with zipper sizes 4-7; button closure with zipper sizes 8-16</li><li>Handsanding at front for a lived-in look</li><li>5-pocket styling</li><li>Super skinny leg opening</li><li>Imported</li>",
+          "pop_score": 0.7900584,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:Bottoms:Denim:US;Girl:SpecialSizes:Denim:US;Girl:Denim:SuperSkinny:US",
+          "style_name": "Girls Basic Super Skinny Jeans - Light Indigo Wash",
+          "uniqueId": "2082147_1303",
+          "style_partno": "2082147",
+          "TCPSwatchesUSStore": "2082147_1303#LT INDIGO",
+          "product_name": "Girls Basic Super Skinny Jeans - Light Indigo Wash",
+          "TCPBazaarVoiceRating": 4,
+          "seo_token": "Girls-Basic-Super-Skinny-Jeans---Light-Indigo-Wash-2082147-1303",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 30,
+          "catgroup_id_sequence": "420073_200;61510_6;420016_30",
+          "prodpartno": "2082147_1303",
+          "updatedate": "2018-08-05 14:16:43",
+          "TCPBazaarVoiceReviewCount": 10,
+          "sort_49010": 200006,
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "969156",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2082147_1303.jpg"
+          ],
+          "favoritedcount": 3872,
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "anywhere"
+          ],
+          "unbxd_prodpartno": "2082147_1303",
+          "unbxd_special_category": [
+            "Bottoms",
+            "Denim",
+            "Extended Sizes",
+            "Denim",
+            "Denim",
+            "Super Skinny"
+          ],
+          "catgroup_id": "420073;61510;420016",
+          "categoryLinkMap": [
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Denim>Super Skinny~girls-super-skinny-jeans~420016"
+          ],
+          "timeStamp_unbxd": 1533631259187,
+          "unbxdFeedId": "80827dec-ca71-42fe-ad59-4a98b3b25559",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Super Skinny",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Super Skinny"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim>Super Skinny",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420016|Girl>Denim>Super Skinny"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "420073",
+            "61510",
+            "47511>49010",
+            "47511>49010>61510",
+            "47511>420015>420016",
+            "420016",
+            "420015",
+            "47511>49004",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2082147_1303"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Super Skinny Jeans - Light Indigo Wash"
+          ],
+          "1_unbxd_text": [
+            "LT INDIGO",
+            "anywhere",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "BLUE",
+            "Bottoms",
+            "Super Skinny",
+            "Denim"
+          ],
+          "autosuggest": "Girls Basic Super Skinny Jeans - Light Indigo Wash",
+          "autosuggest_unstemmed": "Girls Basic Super Skinny Jeans - Light Indigo Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2082147_1303",
+          "score": 40.472828,
+          "variants": []
+        },
+        {
+          "uniqueId": "2102018_A5",
+          "favoritedcount": 1072,
+          "product_short_description": "Pair these essential jeans with her favorite sweater, or a matchables top and sneakers for a look she'll love!",
+          "style_partno_unbxd": "2102018",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:4/29/2018;TCPProductArrivalDateCanadaStore:4/29/2018;TCPSwatchesCanadaStore:2102018_A5#GRANITEWSH;TCPSwatchesUSStore:2102018_A5#GRANITEWSH;TCPBazaarVoiceRating:5.0;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:1.0",
+          "imagename": "2102018_A5",
+          "sort_49004": 200200,
+          "style_long_description": "<li>Made of 80% cotton/18% polyester/2% spandex in our Granite Wash</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh and skinny leg opening</li><li>Handsanding and whiskering for a lived-in look</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "4/29/2018",
+          "TCPProductArrivalDateUSStore": "4/29/2018",
+          "TCPColor": "DENIM",
+          "auxdescription": "GRANITEWSH",
+          "newest_score": 1524960000,
+          "TCPSwatchesCanadaStore": "2102018_A5#GRANITEWSH",
+          "product_long_description": "<li>Made of 80% cotton/18% polyester/2% spandex in our Granite Wash</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh and skinny leg opening</li><li>Handsanding and whiskering for a lived-in look</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "pop_score": 0.6016048,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:SpecialSizes:Denim:US;Girl:Bottoms:Denim:US;Girl:Denim:SuperSkinny:US",
+          "style_name": "Girls Basic Super Skinny Jeans - Granite Wash",
+          "style_partno": "2102018",
+          "TCPSwatchesUSStore": "2102018_A5#GRANITEWSH",
+          "product_name": "Girls Basic Super Skinny Jeans - Granite Wash",
+          "TCPBazaarVoiceRating": 5,
+          "seo_token": "Girls-Basic-Super-Skinny-Jeans---Granite-Wash-2102018-A5",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 50,
+          "catgroup_id_sequence": "61510_8;420073_200;420016_50",
+          "prodpartno": "2102018_A5",
+          "updatedate": "2018-08-05 14:17:28",
+          "TCPBazaarVoiceReviewCount": 1,
+          "sort_49010": 200008,
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "1118162",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2102018_A5.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "essential",
+            "her"
+          ],
+          "unbxd_prodpartno": "2102018_A5",
+          "unbxd_special_category": [
+            "Extended Sizes",
+            "Denim",
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Super Skinny"
+          ],
+          "catgroup_id": "61510;420073;420016",
+          "categoryLinkMap": [
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Super Skinny~girls-super-skinny-jeans~420016"
+          ],
+          "timeStamp_unbxd": 1533646587410,
+          "unbxdFeedId": "faa31ccf-9a02-488a-82f6-7450ef7ea5ea",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Super Skinny",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Super Skinny"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim>Super Skinny",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420016|Girl>Denim>Super Skinny"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "47511>420015>420016",
+            "420016",
+            "420015",
+            "47511>49004",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2102018_A5"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Super Skinny Jeans - Granite Wash"
+          ],
+          "1_unbxd_text": [
+            "GRANITEWSH",
+            "her",
+            "Girl",
+            "essential"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Super Skinny",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Super Skinny Jeans - Granite Wash",
+          "autosuggest_unstemmed": "Girls Basic Super Skinny Jeans - Granite Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2102018_A5",
+          "score": 41.367256,
+          "variants": []
+        },
+        {
+          "uniqueId": "2025026_744",
+          "favoritedcount": 2282,
+          "product_short_description": "The long and skinny of it is, she'll love these jeans!",
+          "style_partno_unbxd": "2025026",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:05/18/2014;TCPProductArrivalDateCanadaStore:07/03/2014;TCPSwatchesCanadaStore:2025026_744#SUPERDKIND;TCPSwatchesUSStore:2025026_744#SUPERDKIND;TCPBazaarVoiceRating:4.0;TCPFitMessageCanadaStore:Extended Sizes;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:17.0",
+          "imagename": "2025026_744",
+          "sort_49004": 200205,
+          "style_long_description": "<li>Made of 80% cotton/18% polyester and 2% spandex</li><li>Specially washed for softness and hand sanded for a cool, lived-in look</li><li>Note: special dyes were used to achieve this rich color denim. Wash separately or with like colors in cold water. Dye may transfer to skin or lighter-fabrics during wash or wear.</li><li>Snap closure with zipper fly for sizes 4-6X/7; button closure with zipper fly for sizes 8-14</li><li>Inner adjustable waist tabs</li><li>Five-pocket styling with skinny leg opening</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "07/03/2014",
+          "TCPProductArrivalDateUSStore": "05/18/2014",
+          "TCPColor": "DENIM",
+          "auxdescription": "SUPERDKIND",
+          "newest_score": 1400371200,
+          "TCPSwatchesCanadaStore": "2025026_744#SUPERDKIND",
+          "product_long_description": "<li>Made of 80% cotton/18% polyester and 2% spandex</li><li>Specially washed for softness and hand sanded for a cool, lived-in look</li><li>Note: special dyes were used to achieve this rich color denim. Wash separately or with like colors in cold water. Dye may transfer to skin or lighter-fabrics during wash or wear.</li><li>Snap closure with zipper fly for sizes 4-6X/7; button closure with zipper fly for sizes 8-14</li><li>Inner adjustable waist tabs</li><li>Five-pocket styling with skinny leg opening</li><li>Imported</li>",
+          "pop_score": 0.76257306,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:SpecialSizes:Denim:US;Place Shops:Denim2014:Girl:SSkinny:US;Girl:Bottoms:Denim:US;Girl:Denim:SuperSkinny:US",
+          "style_name": "Girls Basic Super Skinny Jeans - Super Dark Indigo Wash",
+          "style_partno": "2025026",
+          "TCPSwatchesUSStore": "2025026_744#SUPERDKIND",
+          "product_name": "Girls Basic Super Skinny Jeans - Super Dark Indigo Wash",
+          "TCPBazaarVoiceRating": 4,
+          "seo_token": "Girls-Basic-Skinny-Jeans---Super-Dark-Indigo-Wash-2025026-744",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 60,
+          "catgroup_id_sequence": "61510_10;342534_0;420073_205;420016_60",
+          "prodpartno": "2025026_744",
+          "updatedate": "2018-08-05 14:14:50",
+          "TCPBazaarVoiceReviewCount": 17,
+          "sort_49010": 200010,
+          "TCPFitMessageCanadaStore": "Extended Sizes",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "429774",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2025026_744.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_prodpartno": "2025026_744",
+          "unbxd_special_category": [
+            "Extended Sizes",
+            "Denim",
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Super Skinny"
+          ],
+          "catgroup_id": "61510;342534;420073;420016",
+          "categoryLinkMap": [
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Super Skinny~girls-super-skinny-jeans~420016"
+          ],
+          "timeStamp_unbxd": 1533644032743,
+          "unbxdFeedId": "3802fbb5-697f-46d2-b8a3-bf01b0a69b40",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Super Skinny",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Super Skinny"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim>Super Skinny",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420016|Girl>Denim>Super Skinny"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "47511>420015>420016",
+            "420016",
+            "420015",
+            "47511>49004",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2025026_744"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Super Skinny Jeans - Super Dark Indigo Wash"
+          ],
+          "1_unbxd_text": [
+            "Girl",
+            "SUPERDKIND"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Super Skinny",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Super Skinny Jeans - Super Dark Indigo Wash",
+          "autosuggest_unstemmed": "Girls Basic Super Skinny Jeans - Super Dark Indigo Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2025026_744",
+          "score": 39.578403,
+          "variants": []
+        },
+        {
+          "uniqueId": "2084642_757",
+          "favoritedcount": 3404,
+          "product_short_description": "Here's the 'skinny' on a super trendy new fit she's gotta have!",
+          "style_partno_unbxd": "2084642",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:06/11/2017;TCPProductArrivalDateCanadaStore:06/11/2017;TCPSwatchesCanadaStore:2084642_757#BLACK WASH;TCPSwatchesUSStore:2084642_757#BLACK WASH;TCPBazaarVoiceRating:3.0;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:4.0",
+          "imagename": "2084642_757",
+          "sort_49004": 200205,
+          "style_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex denim in our Black wash</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a slim thigh and knee; skinny leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "06/11/2017",
+          "TCPProductArrivalDateUSStore": "06/11/2017",
+          "TCPColor": "DENIM",
+          "auxdescription": "BLACK WASH",
+          "newest_score": 1497139200,
+          "TCPSwatchesCanadaStore": "2084642_757#BLACK WASH",
+          "product_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex denim in our Black wash</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a slim thigh and knee; skinny leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "pop_score": 0.7799678,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:SpecialSizes:Denim:US;Girl:Denim:SuperSkinny:US;Girl:Bottoms:Denim:US",
+          "style_name": "Girls Basic Super Skinny Jeans - Black Wash",
+          "style_partno": "2084642",
+          "TCPSwatchesUSStore": "2084642_757#BLACK WASH",
+          "product_name": "Girls Basic Super Skinny Jeans - Black Wash",
+          "TCPBazaarVoiceRating": 3,
+          "seo_token": "Girls-Basic-Super-Skinny-Jeans---Black-Wash-2084642-757",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 80,
+          "catgroup_id_sequence": "61510_10;420016_80;420073_205",
+          "prodpartno": "2084642_757",
+          "updatedate": "2018-08-05 14:16:49",
+          "TCPBazaarVoiceReviewCount": 4,
+          "sort_49010": 200010,
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "921125",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2084642_757.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "trendy",
+            "gotta"
+          ],
+          "unbxd_prodpartno": "2084642_757",
+          "unbxd_special_category": [
+            "Extended Sizes",
+            "Denim",
+            "Denim",
+            "Super Skinny",
+            "Bottoms",
+            "Denim"
+          ],
+          "catgroup_id": "61510;420016;420073",
+          "categoryLinkMap": [
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Denim>Super Skinny~girls-super-skinny-jeans~420016",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073"
+          ],
+          "timeStamp_unbxd": 1533642446254,
+          "unbxdFeedId": "c4217f30-2ab8-4c68-9fdd-08cb33b6bcb8",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Super Skinny",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Super Skinny"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim>Super Skinny",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420016|Girl>Denim>Super Skinny"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "47511>420015>420016",
+            "420016",
+            "420015",
+            "47511>49004",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2084642_757"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Super Skinny Jeans - Black Wash"
+          ],
+          "1_unbxd_text": [
+            "BLACK WASH",
+            "trendy",
+            "gotta",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Super Skinny",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Super Skinny Jeans - Black Wash",
+          "autosuggest_unstemmed": "Girls Basic Super Skinny Jeans - Black Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2084642_757",
+          "score": 43.15611,
+          "variants": []
+        },
+        {
+          "uniqueId": "2044139_757",
+          "favoritedcount": 561,
+          "product_short_description": "Here's the 'skinny' on a super trendy new fit she's gotta have!",
+          "style_partno_unbxd": "2044139",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:6/15/2015;TCPProductArrivalDateCanadaStore:6/15/2015;TCPSwatchesCanadaStore:2044139_757#BLACK WASH;TCPSwatchesUSStore:2044139_757#BLACK WASH;TCPBazaarVoiceRating:3.7;TCPFitMessageCanadaStore:Extended Sizes;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:17.0",
+          "imagename": "2044139_757",
+          "sort_49004": 200205,
+          "style_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex denim in our Black wash</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a slim thigh and knee; skinny leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "6/15/2015",
+          "TCPProductArrivalDateUSStore": "6/15/2015",
+          "TCPColor": "DENIM",
+          "auxdescription": "BLACK WASH",
+          "newest_score": 1434326400,
+          "TCPSwatchesCanadaStore": "2044139_757#BLACK WASH",
+          "product_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex denim in our Black wash</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a slim thigh and knee; skinny leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "pop_score": 0.50607437,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:SpecialSizes:Denim:US;Girl:Bottoms:Denim:US;Girl:Denim:SuperSkinny:US",
+          "style_name": "Girls Basic Super Skinny Jeans - Black Wash",
+          "style_partno": "2044139",
+          "TCPSwatchesUSStore": "2044139_757#BLACK WASH",
+          "product_name": "Girls Basic Super Skinny Jeans - Black Wash",
+          "TCPBazaarVoiceRating": 3.7,
+          "seo_token": "Girls-Basic-Super-Skinny-Jeans---Black-Wash-2044139-757",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 90,
+          "catgroup_id_sequence": "61510_10;420073_205;420016_90",
+          "prodpartno": "2044139_757",
+          "updatedate": "2018-08-05 14:15:04",
+          "TCPBazaarVoiceReviewCount": 17,
+          "sort_49010": 200010,
+          "TCPFitMessageCanadaStore": "Extended Sizes",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "619092",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2044139_757.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "trendy",
+            "gotta"
+          ],
+          "unbxd_prodpartno": "2044139_757",
+          "unbxd_special_category": [
+            "Extended Sizes",
+            "Denim",
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Super Skinny"
+          ],
+          "catgroup_id": "61510;420073;420016",
+          "categoryLinkMap": [
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Super Skinny~girls-super-skinny-jeans~420016"
+          ],
+          "timeStamp_unbxd": 1533648430336,
+          "unbxdFeedId": "8be40162-6fc0-4e9c-bd93-b400c89ec9f8",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Super Skinny",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Super Skinny"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim>Super Skinny",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420016|Girl>Denim>Super Skinny"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "47511>420015>420016",
+            "420016",
+            "420015",
+            "47511>49004",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2044139_757"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Super Skinny Jeans - Black Wash"
+          ],
+          "1_unbxd_text": [
+            "BLACK WASH",
+            "trendy",
+            "gotta",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Super Skinny",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Super Skinny Jeans - Black Wash",
+          "autosuggest_unstemmed": "Girls Basic Super Skinny Jeans - Black Wash",
+          "variantCount": 4,
+          "variantTotal": 25,
+          "parent_unbxd": true,
+          "_root_": "2044139_757",
+          "score": 28.845276,
+          "variants": []
+        },
+        {
+          "uniqueId": "2069116_JP",
+          "favoritedcount": 2666,
+          "product_short_description": "Great style is in her jeans!",
+          "style_partno_unbxd": "2069116",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:05/27/2016;TCPProductArrivalDateCanadaStore:2/17/2015;TCPSwatchesCanadaStore:2069116_JP#TRUEINDIGO;TCPSwatchesUSStore:2069116_JP#TRUEINDIGO;TCPBazaarVoiceRating:3.6;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:25.0",
+          "imagename": "2069116_JP",
+          "sort_49004": 200210,
+          "style_long_description": "<li>Made of 73% cotton/2% polyester/1% spandex in our True Indigo wash</li><li>Hand-sanding for a lived-in look</li><li>Snap zipper fly for sizes 4-7; button zipper fly for sizes 8-16</li><li>Five-pocket styling</li><li>Skinny leg</li><li>Inner adjustable waist tabs for custom fit</li><li>Tagless label</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "2/17/2015",
+          "TCPProductArrivalDateUSStore": "05/27/2016",
+          "TCPColor": "DENIM",
+          "auxdescription": "TRUEINDIGO",
+          "newest_score": 1464307200,
+          "TCPSwatchesCanadaStore": "2069116_JP#TRUEINDIGO",
+          "product_long_description": "<li>Made of 73% cotton/2% polyester/1% spandex in our True Indigo wash</li><li>Hand-sanding for a lived-in look</li><li>Snap zipper fly for sizes 4-7; button zipper fly for sizes 8-16</li><li>Five-pocket styling</li><li>Skinny leg</li><li>Inner adjustable waist tabs for custom fit</li><li>Tagless label</li><li>Imported</li>",
+          "pop_score": 0.780496,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:SpecialSizes:Denim:US;Girl:Bottoms:Denim:US;Girl:Denim:Skinny:US",
+          "style_name": "Girls Basic Skinny Jeans - True Indigo Wash",
+          "style_partno": "2069116",
+          "TCPSwatchesUSStore": "2069116_JP#TRUEINDIGO",
+          "product_name": "Girls Basic Skinny Jeans - True Indigo Wash",
+          "TCPBazaarVoiceRating": 3.6,
+          "seo_token": "Girls-Basic-Skinny-Jeans---True-Indigo-Wash-2069116-JP",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 100050,
+          "catgroup_id_sequence": "61510_10;420073_210;420017_50",
+          "prodpartno": "2069116_JP",
+          "updatedate": "2018-08-05 14:16:18",
+          "TCPBazaarVoiceReviewCount": 25,
+          "sort_49010": 200010,
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "785048",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2069116_JP.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "her"
+          ],
+          "unbxd_prodpartno": "2069116_JP",
+          "unbxd_special_category": [
+            "Extended Sizes",
+            "Denim",
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Skinny"
+          ],
+          "catgroup_id": "61510;420073;420017",
+          "categoryLinkMap": [
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Skinny~girls-skinny-jeans~420017"
+          ],
+          "timeStamp_unbxd": 1533648911061,
+          "unbxdFeedId": "a970ca94-a02e-4d8f-81f3-7cf69b0342fe",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Denim",
+            "Skinny"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Denim>Skinny",
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim"
+          ],
+          "categoryPath": [
+            "Girl>Denim>Skinny",
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>420017|Girl>Denim>Skinny",
+            "47511>49010>61510|Girl>Extended Sizes>Denim"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "420015",
+            "47511>49004",
+            "47511>420015>420017",
+            "420017",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2069116_JP"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Skinny Jeans - True Indigo Wash"
+          ],
+          "1_unbxd_text": [
+            "TRUEINDIGO",
+            "her",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim",
+            "DENIM",
+            "Skinny"
+          ],
+          "autosuggest": "Girls Basic Skinny Jeans - True Indigo Wash",
+          "autosuggest_unstemmed": "Girls Basic Skinny Jeans - True Indigo Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2069116_JP",
+          "score": 36.89512,
+          "variants": []
+        },
+        {
+          "uniqueId": "2063521_907",
+          "favoritedcount": 4488,
+          "product_short_description": "Great style is in her jeans!",
+          "style_partno_unbxd": "2063521",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:06/11/2016;TCPProductArrivalDateCanadaStore:03/12/2013;TCPSwatchesCanadaStore:2063521_907#MEDBLUEWSH;TCPSwatchesUSStore:2063521_907#MEDBLUEWSH;TCPBazaarVoiceRating:3.6;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:34.0",
+          "imagename": "2063521_907",
+          "sort_49004": 200210,
+          "style_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex in our Medium Blue wash</li><li>Hand-sanding for a cool, lived-in look</li><li>Snap zipper fly for sizes 4-7; button zipper fly for sizes 8-16</li><li>Five-pocket styling</li><li>Skinny leg</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "03/12/2013",
+          "TCPProductArrivalDateUSStore": "06/11/2016",
+          "TCPColor": "DENIM",
+          "auxdescription": "MEDBLUEWSH",
+          "newest_score": 1465603200,
+          "TCPSwatchesCanadaStore": "2063521_907#MEDBLUEWSH",
+          "product_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex in our Medium Blue wash</li><li>Hand-sanding for a cool, lived-in look</li><li>Snap zipper fly for sizes 4-7; button zipper fly for sizes 8-16</li><li>Five-pocket styling</li><li>Skinny leg</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Imported</li>",
+          "pop_score": 0.824611,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:SpecialSizes:Denim:US;Girl:Bottoms:Denim:US;Girl:Denim:Skinny:US",
+          "style_name": "Girls Basic Skinny Jeans - Medium Blue Wash",
+          "style_partno": "2063521",
+          "TCPSwatchesUSStore": "2063521_907#MEDBLUEWSH",
+          "product_name": "Girls Basic Skinny Jeans - Medium Blue Wash",
+          "TCPBazaarVoiceRating": 3.6,
+          "seo_token": "Girls-Basic-Skinny-Jeans---Medium-Blue-Wash-2063521-907",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 100060,
+          "catgroup_id_sequence": "61510_10;420073_210;420017_60",
+          "prodpartno": "2063521_907",
+          "updatedate": "2018-08-05 14:16:06",
+          "TCPBazaarVoiceReviewCount": 34,
+          "sort_49010": 200010,
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "792246",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2063521_907.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "her"
+          ],
+          "unbxd_prodpartno": "2063521_907",
+          "unbxd_special_category": [
+            "Extended Sizes",
+            "Denim",
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Skinny"
+          ],
+          "catgroup_id": "61510;420073;420017",
+          "categoryLinkMap": [
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Skinny~girls-skinny-jeans~420017"
+          ],
+          "timeStamp_unbxd": 1533649600886,
+          "unbxdFeedId": "6e6b4d2e-6bd1-40c9-b831-a539a00da43b",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Denim",
+            "Skinny"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Denim>Skinny",
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim"
+          ],
+          "categoryPath": [
+            "Girl>Denim>Skinny",
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>420017|Girl>Denim>Skinny",
+            "47511>49010>61510|Girl>Extended Sizes>Denim"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "420015",
+            "47511>49004",
+            "47511>420015>420017",
+            "420017",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2063521_907"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Skinny Jeans - Medium Blue Wash"
+          ],
+          "1_unbxd_text": [
+            "MEDBLUEWSH",
+            "her",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim",
+            "DENIM",
+            "Skinny"
+          ],
+          "autosuggest": "Girls Basic Skinny Jeans - Medium Blue Wash",
+          "autosuggest_unstemmed": "Girls Basic Skinny Jeans - Medium Blue Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2063521_907",
+          "score": 44.050537,
+          "variants": []
+        },
+        {
+          "uniqueId": "2102019_DA",
+          "favoritedcount": 769,
+          "product_short_description": "Pair these essential jeans with her favorite sweater, or a matchables top and sneakers for a look she'll love!",
+          "style_partno_unbxd": "2102019",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:5/13/2018;TCPProductArrivalDateCanadaStore:5/13/2018;TCPSwatchesCanadaStore:2102019_DA#SKY WASH;TCPSwatchesUSStore:2102019_DA#SKY WASH;TCPFitMessageUSStore:Extended Sizes",
+          "imagename": "2102019_DA",
+          "sort_49004": 200210,
+          "style_long_description": "<li>Made of 80% cotton/18% polyester/2% spandex denim in our Sky Wash</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh and skinny leg opening</li><li>Belt loops</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "5/13/2018",
+          "TCPProductArrivalDateUSStore": "5/13/2018",
+          "TCPColor": "DENIM",
+          "auxdescription": "SKY WASH",
+          "newest_score": 1526169600,
+          "TCPSwatchesCanadaStore": "2102019_DA#SKY WASH",
+          "product_long_description": "<li>Made of 80% cotton/18% polyester/2% spandex denim in our Sky Wash</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh and skinny leg opening</li><li>Belt loops</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "pop_score": 0.5514525,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:SpecialSizes:Denim:US;Girl:Bottoms:Denim:US;Girl:Denim:Skinny:US",
+          "style_name": "Girls Basic Skinny Jeans - Sky Wash",
+          "style_partno": "2102019",
+          "TCPSwatchesUSStore": "2102019_DA#SKY WASH",
+          "product_name": "Girls Basic Skinny Jeans - Sky Wash",
+          "seo_token": "Girls-Basic-Skinny-Jeans---Sky-Wash-2102019-DA",
+          "sort_420015": 100100,
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "catgroup_id_sequence": "61510_10;420073_210;420017_100",
+          "prodpartno": "2102019_DA",
+          "updatedate": "2018-08-05 14:17:28",
+          "sort_49010": 200010,
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "1118163",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2102019_DA.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "essential",
+            "her"
+          ],
+          "unbxd_prodpartno": "2102019_DA",
+          "unbxd_special_category": [
+            "Extended Sizes",
+            "Denim",
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Skinny"
+          ],
+          "catgroup_id": "61510;420073;420017",
+          "categoryLinkMap": [
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Skinny~girls-skinny-jeans~420017"
+          ],
+          "timeStamp_unbxd": 1533649604520,
+          "unbxdFeedId": "bd8319a0-2eb3-423a-b809-5d71a4909b7e",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Denim",
+            "Skinny"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Denim>Skinny",
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim"
+          ],
+          "categoryPath": [
+            "Girl>Denim>Skinny",
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>420017|Girl>Denim>Skinny",
+            "47511>49010>61510|Girl>Extended Sizes>Denim"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "420015",
+            "47511>49004",
+            "47511>420015>420017",
+            "420017",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2102019_DA"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Skinny Jeans - Sky Wash"
+          ],
+          "1_unbxd_text": [
+            "SKY WASH",
+            "her",
+            "Girl",
+            "essential"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim",
+            "DENIM",
+            "Skinny"
+          ],
+          "autosuggest": "Girls Basic Skinny Jeans - Sky Wash",
+          "autosuggest_unstemmed": "Girls Basic Skinny Jeans - Sky Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2102019_DA",
+          "score": 35.106266,
+          "variants": []
+        },
+        {
+          "uniqueId": "2044141_1005",
+          "favoritedcount": 3000,
+          "product_short_description": "The long and skinny of it? She'll love these jeans!",
+          "style_partno_unbxd": "2044141",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:6/15/2015;TCPProductArrivalDateCanadaStore:6/15/2015;TCPSwatchesCanadaStore:2044141_1005#BLUBERYWSH;TCPSwatchesUSStore:2044141_1005#BLUBERYWSH;TCPBazaarVoiceRating:3.6;TCPFitMessageCanadaStore:Extended Sizes;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:25.0",
+          "imagename": "2044141_1005",
+          "sort_49004": 200210,
+          "style_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex denim in our Blueberry wash</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh and knee; slim leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "6/15/2015",
+          "TCPProductArrivalDateUSStore": "6/15/2015",
+          "TCPColor": "DENIM",
+          "auxdescription": "BLUBERYWSH",
+          "newest_score": 1434326400,
+          "TCPSwatchesCanadaStore": "2044141_1005#BLUBERYWSH",
+          "product_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex denim in our Blueberry wash</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh and knee; slim leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "pop_score": 0.7827519,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:Bottoms:Denim:US;Girl:Denim:Skinny:US;Girl:SpecialSizes:Denim:US",
+          "style_name": "Girls Basic Skinny Jeans - Blueberry Wash",
+          "style_partno": "2044141",
+          "TCPSwatchesUSStore": "2044141_1005#BLUBERYWSH",
+          "product_name": "Girls Basic Skinny Jeans - Blueberry Wash",
+          "TCPBazaarVoiceRating": 3.6,
+          "seo_token": "Girls-Basic-Skinny-Jeans---Blueberry-Wash-2044141-1005",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 100135,
+          "catgroup_id_sequence": "420073_210;420017_135;61510_10",
+          "prodpartno": "2044141_1005",
+          "updatedate": "2018-08-05 14:15:04",
+          "TCPBazaarVoiceReviewCount": 25,
+          "sort_49010": 200010,
+          "TCPFitMessageCanadaStore": "Extended Sizes",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "619093",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2044141_1005.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_prodpartno": "2044141_1005",
+          "unbxd_special_category": [
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Skinny",
+            "Extended Sizes",
+            "Denim"
+          ],
+          "catgroup_id": "420073;420017;61510",
+          "categoryLinkMap": [
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Skinny~girls-skinny-jeans~420017",
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510"
+          ],
+          "timeStamp_unbxd": 1533648545629,
+          "unbxdFeedId": "5eeaad60-da44-4fd2-82db-4642f3da4cb7",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Denim",
+            "Skinny"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Denim>Skinny",
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim"
+          ],
+          "categoryPath": [
+            "Girl>Denim>Skinny",
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>420017|Girl>Denim>Skinny",
+            "47511>49010>61510|Girl>Extended Sizes>Denim"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "420073",
+            "61510",
+            "47511>49010",
+            "47511>49010>61510",
+            "420015",
+            "47511>49004",
+            "47511>420015>420017",
+            "420017",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2044141_1005"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Skinny Jeans - Blueberry Wash"
+          ],
+          "1_unbxd_text": [
+            "BLUBERYWSH",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim",
+            "DENIM",
+            "Skinny"
+          ],
+          "autosuggest": "Girls Basic Skinny Jeans - Blueberry Wash",
+          "autosuggest_unstemmed": "Girls Basic Skinny Jeans - Blueberry Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2044141_1005",
+          "score": 37.789547,
+          "variants": []
+        },
+        {
+          "uniqueId": "2063527_7K",
+          "favoritedcount": 2466,
+          "product_short_description": "Great style is in her jeans!",
+          "style_partno_unbxd": "2063527",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:06/17/2016;TCPProductArrivalDateCanadaStore:03/12/2013;TCPSwatchesCanadaStore:2063527_7K#INDGOSTONE;TCPSwatchesUSStore:2063527_7K#INDGOSTONE;TCPBazaarVoiceRating:3.4;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:27.0",
+          "imagename": "2063527_7K",
+          "sort_49004": 200220,
+          "style_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex in our Indigo wash</li><li>Snap zipper fly for sizes 4-7; button zipper fly for sizes 8-16</li><li>Five-pocket styling</li><li>Flared leg</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "03/12/2013",
+          "TCPProductArrivalDateUSStore": "06/17/2016",
+          "TCPColor": "DENIM",
+          "auxdescription": "INDGOSTONE",
+          "newest_score": 1466121600,
+          "TCPSwatchesCanadaStore": "2063527_7K#INDGOSTONE",
+          "product_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex in our Indigo wash</li><li>Snap zipper fly for sizes 4-7; button zipper fly for sizes 8-16</li><li>Five-pocket styling</li><li>Flared leg</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Imported</li>",
+          "pop_score": 0.77837694,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:Denim:Bootcut:US;Girl:SpecialSizes:Denim:US;Girl:Bottoms:Denim:US",
+          "style_name": "Girls Basic Bootcut Jeans - Indigo Stone Wash",
+          "style_partno": "2063527",
+          "TCPSwatchesUSStore": "2063527_7K#INDGOSTONE",
+          "product_name": "Girls Basic Bootcut Jeans - Indigo Stone Wash",
+          "TCPBazaarVoiceRating": 3.4,
+          "seo_token": "Girls-Basic-Bootcut-Jeans---Indigo-Stone-Wash-2063527-7K",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 200100,
+          "catgroup_id_sequence": "420018_100;61510_15;420073_220",
+          "prodpartno": "2063527_7K",
+          "updatedate": "2018-08-05 14:16:06",
+          "TCPBazaarVoiceReviewCount": 27,
+          "sort_49010": 200015,
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "809506",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2063527_7K.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "her"
+          ],
+          "unbxd_prodpartno": "2063527_7K",
+          "unbxd_special_category": [
+            "Denim",
+            "Bootcut",
+            "Extended Sizes",
+            "Denim",
+            "Bottoms",
+            "Denim"
+          ],
+          "catgroup_id": "420018;61510;420073",
+          "categoryLinkMap": [
+            "Girl>Denim>Bootcut~girls-bootcut-jeans~420018",
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073"
+          ],
+          "timeStamp_unbxd": 1533642477932,
+          "unbxdFeedId": "7a48e5f6-2453-43ae-969d-031720b4fbde",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Bootcut",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Bootcut"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl>Denim>Bootcut",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420018|Girl>Denim>Bootcut"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "61510",
+            "420073",
+            "47511>49010",
+            "47511>49010>61510",
+            "420015",
+            "47511>420015>420018",
+            "420018",
+            "47511>49004",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2063527_7K"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Bootcut Jeans - Indigo Stone Wash"
+          ],
+          "1_unbxd_text": [
+            "INDGOSTONE",
+            "her",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Bootcut",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Bootcut Jeans - Indigo Stone Wash",
+          "autosuggest_unstemmed": "Girls Basic Bootcut Jeans - Indigo Stone Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2063527_7K",
+          "score": 38.683975,
+          "variants": []
+        },
+        {
+          "uniqueId": "1150077_B4",
+          "favoritedcount": 2393,
+          "product_short_description": "Her classic go-to jeans in a cool new wash!",
+          "style_partno_unbxd": "1150077",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPWebOnlyFlagUSStore:1;TCPProductIndCanadaStore:Clearance;TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:03/12/2013;TCPProductArrivalDateCanadaStore:03/12/2013;TCPSwatchesCanadaStore:1150077_B4#ODYSSEY;TCPSwatchesUSStore:1150077_B4#ODYSSEY;TCPBazaarVoiceRating:4.3;TCPFitMessageCanadaStore:Extended Sizes;TCPFitMessageUSStore:Extended Sizes;TCPMerchantTagCanadaStore:60% OFF;TCPBazaarVoiceReviewCount:33.0",
+          "imagename": "1150077_B4",
+          "sort_49004": 200220,
+          "style_long_description": "<li>Our denim in 73% cotton/25% polyester and 2% spandex in our Odyssey wash</li><li>Hand sanded for a lived-in, abraded look</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh; slight flare leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "TCPProductIndCanadaStore": "Clearance",
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "age_group": "AB_Big Kid (4 - 18)",
+          "TCPProductArrivalDateCanadaStore": "03/12/2013",
+          "auxdescription": "ODYSSEY",
+          "newest_score": 1363046400,
+          "TCPSwatchesCanadaStore": "1150077_B4#ODYSSEY",
+          "product_long_description": "<li>Our denim in 73% cotton/25% polyester and 2% spandex in our Odyssey wash</li><li>Hand sanded for a lived-in, abraded look</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh; slight flare leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "pop_score": 0.76372474,
+          "TCPMerchantTagCanadaStore": "60% OFF",
+          "TCPProductArrivalDateUSStore": "03/12/2013",
+          "TCPInventoryFlagUSStore": "1",
+          "style_name": "Girls Basic Bootcut Jeans - Odyssey Wash",
+          "style_partno": "1150077",
+          "TCPSwatchesUSStore": "1150077_B4#ODYSSEY",
+          "catgroup_identifier": "Girl:Bottoms:Denim:US;Girl:SpecialSizes:Denim:US;Girl:Denim:Bootcut:US",
+          "TCPBazaarVoiceRating": 4.3,
+          "seo_token": "Girls-Basic-Bootcut-Jeans---Odyssey-Wash-1150077-B4",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 200110,
+          "catgroup_id_sequence": "420073_220;61510_15;420018_110",
+          "prodpartno": "1150077_B4",
+          "updatedate": "2018-08-05 14:14:46",
+          "TCPBazaarVoiceReviewCount": 33,
+          "sort_49010": 200015,
+          "TCPFitMessageCanadaStore": "Extended Sizes",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "170403",
+          "TCPColor": "DENIM",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/1150077_B4.jpg"
+          ],
+          "product_name": "Girls Basic Bootcut Jeans - Odyssey Wash",
+          "unbxd_price_range": "$10 and Under",
+          "TCPWebOnlyFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "go-to"
+          ],
+          "unbxd_prodpartno": "1150077_B4",
+          "unbxd_special_category": [
+            "Bottoms",
+            "Denim",
+            "Extended Sizes",
+            "Denim",
+            "Denim",
+            "Bootcut"
+          ],
+          "catgroup_id": "420073;61510;420018",
+          "categoryLinkMap": [
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Denim>Bootcut~girls-bootcut-jeans~420018",
+            "Girl>Online Only~online-only-girls~454001",
+            "Girl>Online Only~online-only-girls~454001",
+            "Girl>Online Only~online-only-girls~454001"
+          ],
+          "timeStamp_unbxd": 1533649374061,
+          "unbxdFeedId": "1ff5c0bd-9a91-4688-830a-e4e3f3874d13",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Online Only",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Bootcut",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Online Only",
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Bootcut"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Online Only",
+            "Girl>Bottoms",
+            "Girl>Denim>Bootcut",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes",
+            "47511>454001|Girl>Online Only"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420018|Girl>Denim>Bootcut"
+          ],
+          "u_categoryPathId": [
+            "454001",
+            "47511",
+            "47511>49004>420073",
+            "420073",
+            "61510",
+            "47511>454001",
+            "47511>49010",
+            "47511>49010>61510",
+            "420015",
+            "47511>49004",
+            "47511>420015>420018",
+            "420018",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "1150077_B4"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Bootcut Jeans - Odyssey Wash"
+          ],
+          "1_unbxd_text": [
+            "60% OFF",
+            "ODYSSEY",
+            "Clearance",
+            "Girl",
+            "go-to"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Online Only",
+            "Bottoms",
+            "Bootcut",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Bootcut Jeans - Odyssey Wash",
+          "autosuggest_unstemmed": "Girls Basic Bootcut Jeans - Odyssey Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "1150077_B4",
+          "score": 36.000694,
+          "variants": []
+        },
+        {
+          "uniqueId": "2024533_K2",
+          "favoritedcount": 1966,
+          "product_short_description": "A cool classic and a great wash to boot!",
+          "style_partno_unbxd": "2024533",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPWebOnlyFlagUSStore:1;TCPProductIndCanadaStore:Clearance;TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:05/14/2014;TCPProductArrivalDateCanadaStore:07/03/2014;TCPSwatchesCanadaStore:2024533_K2#MD STONEDM;TCPSwatchesUSStore:2024533_K2#MD STONEDM;TCPBazaarVoiceRating:3.7;TCPFitMessageCanadaStore:Extended Sizes;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:34.0",
+          "imagename": "2024533_K2",
+          "sort_49004": 200220,
+          "style_long_description": "<li>Made of 73% cotton/25% polyester and 2% spandex</li><li>Stonewashed for softness and hand sanded for a cool, lived-in look</li><li>Snap closure with zipper fly for sizes 4-6X/7; button closure with zipper fly for sizes 8-14</li><li>Inner adjustable waist tabs</li><li>Five-pocket styling with bootcut leg opening</li><li>Imported</li>",
+          "TCPProductIndCanadaStore": "Clearance",
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "age_group": "AB_Big Kid (4 - 18)",
+          "TCPProductArrivalDateCanadaStore": "07/03/2014",
+          "auxdescription": "MD STONEDM",
+          "newest_score": 1400025600,
+          "TCPSwatchesCanadaStore": "2024533_K2#MD STONEDM",
+          "product_long_description": "<li>Made of 73% cotton/25% polyester and 2% spandex</li><li>Stonewashed for softness and hand sanded for a cool, lived-in look</li><li>Snap closure with zipper fly for sizes 4-6X/7; button closure with zipper fly for sizes 8-14</li><li>Inner adjustable waist tabs</li><li>Five-pocket styling with bootcut leg opening</li><li>Imported</li>",
+          "pop_score": 0.7637664,
+          "TCPProductArrivalDateUSStore": "05/14/2014",
+          "TCPInventoryFlagUSStore": "1",
+          "style_name": "Girls Basic Bootcut Jeans - Medium Stone Wash",
+          "style_partno": "2024533",
+          "TCPSwatchesUSStore": "2024533_K2#MD STONEDM",
+          "catgroup_identifier": "Girl:Bottoms:Denim:US;Girl:SpecialSizes:Denim:US;Girl:Denim:Bootcut:US",
+          "TCPBazaarVoiceRating": 3.7,
+          "seo_token": "Girls-Basic-Bootcut-Jeans---Medium-Stone-Wash-2024533-K2",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 200120,
+          "catgroup_id_sequence": "420073_220;61510_15;420018_120",
+          "prodpartno": "2024533_K2",
+          "updatedate": "2018-08-05 14:14:50",
+          "TCPBazaarVoiceReviewCount": 34,
+          "sort_49010": 200015,
+          "TCPFitMessageCanadaStore": "Extended Sizes",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "429488",
+          "TCPColor": "DENIM",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2024533_K2.jpg"
+          ],
+          "product_name": "Girls Basic Bootcut Jeans - Medium Stone Wash",
+          "unbxd_price_range": "$10 and Under",
+          "TCPWebOnlyFlagUSStore": "1",
+          "unbxd_prodpartno": "2024533_K2",
+          "unbxd_special_category": [
+            "Bottoms",
+            "Denim",
+            "Extended Sizes",
+            "Denim",
+            "Denim",
+            "Bootcut"
+          ],
+          "catgroup_id": "420073;61510;420018",
+          "categoryLinkMap": [
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Denim>Bootcut~girls-bootcut-jeans~420018",
+            "Girl>Online Only~online-only-girls~454001",
+            "Girl>Online Only~online-only-girls~454001",
+            "Girl>Online Only~online-only-girls~454001"
+          ],
+          "timeStamp_unbxd": 1533639551341,
+          "unbxdFeedId": "fb84fb01-ee77-4303-b397-e6ef248f23d6",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Online Only",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Bootcut",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Online Only",
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Bootcut"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Online Only",
+            "Girl>Bottoms",
+            "Girl>Denim>Bootcut",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes",
+            "47511>454001|Girl>Online Only"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420018|Girl>Denim>Bootcut"
+          ],
+          "u_categoryPathId": [
+            "454001",
+            "47511",
+            "47511>49004>420073",
+            "420073",
+            "61510",
+            "47511>454001",
+            "47511>49010",
+            "47511>49010>61510",
+            "420015",
+            "47511>49004",
+            "47511>420015>420018",
+            "420018",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2024533_K2"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Bootcut Jeans - Medium Stone Wash"
+          ],
+          "1_unbxd_text": [
+            "MD STONEDM",
+            "Clearance",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Online Only",
+            "Bottoms",
+            "Bootcut",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Bootcut Jeans - Medium Stone Wash",
+          "autosuggest_unstemmed": "Girls Basic Bootcut Jeans - Medium Stone Wash",
+          "variantCount": 27,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2024533_K2",
+          "score": 34.211838,
+          "variants": []
+        },
+        {
+          "uniqueId": "2024535_93",
+          "favoritedcount": 1620,
+          "product_short_description": "A cool classic and a great wash to boot!",
+          "style_partno_unbxd": "2024535",
+          "TCPFitMessageUSStore": "Extended Sizes",
+          "min_list_price": 19.5,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:05/12/2014;TCPProductArrivalDateCanadaStore:07/03/2014;TCPSwatchesCanadaStore:2024535_93#MDWRNSTONE;TCPSwatchesUSStore:2024535_93#MDWRNSTONE;TCPBazaarVoiceRating:4.0;TCPFitMessageCanadaStore:Extended Sizes;TCPFitMessageUSStore:Extended Sizes;TCPBazaarVoiceReviewCount:31.0",
+          "imagename": "2024535_93",
+          "sort_49004": 200220,
+          "style_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex in our Medium Worn Stone wash</li><li>Hand sanded for a lived-in, abraded look</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh; slight flare leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "07/03/2014",
+          "TCPProductArrivalDateUSStore": "05/12/2014",
+          "TCPColor": "DENIM",
+          "auxdescription": "MDWRNSTONE",
+          "newest_score": 1399852800,
+          "TCPSwatchesCanadaStore": "2024535_93#MDWRNSTONE",
+          "product_long_description": "<li>Made of 73% cotton/26% polyester/1% spandex in our Medium Worn Stone wash</li><li>Hand sanded for a lived-in, abraded look</li><li>Snap closure with zipper fly for sizes 4-7; button closure with zipper fly for sizes 8-16</li><li>Five-pocket styling with a fitted thigh; slight flare leg opening</li><li>Inner adjustable waist tabs for a custom fit</li><li>Tagless label</li><li>Note: details may vary from image</li><li>Imported</li>",
+          "pop_score": 0.7382056,
+          "age_group": "AB_Big Kid (4 - 18)",
+          "catgroup_identifier": "Girl:Bottoms:Denim:US;Girl:SpecialSizes:Denim:US;Girl:Denim:Bootcut:US",
+          "style_name": "Girls Basic Bootcut Jeans - Medium Worn Stone Wash",
+          "style_partno": "2024535",
+          "TCPSwatchesUSStore": "2024535_93#MDWRNSTONE",
+          "product_name": "Girls Basic Bootcut Jeans - Medium Worn Stone Wash",
+          "TCPBazaarVoiceRating": 4,
+          "seo_token": "Girls-Basic-Bootcut-Jeans---Medium-Worn-Stone-Wash-2024535-93",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 7.99,
+          "sort_420015": 200130,
+          "catgroup_id_sequence": "420073_220;61510_15;420018_130",
+          "prodpartno": "2024535_93",
+          "updatedate": "2018-08-05 14:14:50",
+          "TCPBazaarVoiceReviewCount": 31,
+          "sort_49010": 200015,
+          "TCPFitMessageCanadaStore": "Extended Sizes",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "429497",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2024535_93.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 and Under",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_prodpartno": "2024535_93",
+          "unbxd_special_category": [
+            "Bottoms",
+            "Denim",
+            "Extended Sizes",
+            "Denim",
+            "Denim",
+            "Bootcut"
+          ],
+          "catgroup_id": "420073;61510;420018",
+          "categoryLinkMap": [
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Extended Sizes>Denim~girls-special-sizes-denim~61510",
+            "Girl>Denim>Bootcut~girls-bootcut-jeans~420018"
+          ],
+          "timeStamp_unbxd": 1533642474247,
+          "unbxdFeedId": "a9b86e14-93c2-4aaa-b339-b4e4b5cedf0b",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Extended Sizes",
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Bootcut",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Denim>Bootcut"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Extended Sizes>Denim",
+            "Girl>Bottoms",
+            "Girl>Denim>Bootcut",
+            "Girl",
+            "Girl>Denim",
+            "Girl>Extended Sizes"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>49010|Girl>Extended Sizes"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>49010>61510|Girl>Extended Sizes>Denim",
+            "47511>420015>420018|Girl>Denim>Bootcut"
+          ],
+          "u_categoryPathId": [
+            "47511",
+            "47511>49004>420073",
+            "420073",
+            "61510",
+            "47511>49010",
+            "47511>49010>61510",
+            "420015",
+            "47511>49004",
+            "47511>420015>420018",
+            "420018",
+            "49004",
+            "47511>420015",
+            "49010"
+          ],
+          "1_unbxd_sku": [
+            "2024535_93"
+          ],
+          "3_unbxd_text": [
+            "Girls Basic Bootcut Jeans - Medium Worn Stone Wash"
+          ],
+          "1_unbxd_text": [
+            "MDWRNSTONE",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Extended Sizes",
+            "Bottoms",
+            "Bootcut",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Basic Bootcut Jeans - Medium Worn Stone Wash",
+          "autosuggest_unstemmed": "Girls Basic Bootcut Jeans - Medium Worn Stone Wash",
+          "variantCount": 26,
+          "variantTotal": 27,
+          "parent_unbxd": true,
+          "_root_": "2024535_93",
+          "score": 33.317413,
+          "variants": []
+        },
+        {
+          "uniqueId": "2110139_1977",
+          "favoritedcount": 358,
+          "product_short_description": "A not-so-basic jean with a lived-in look she'll love!",
+          "style_partno_unbxd": "2110139",
+          "catgroup_identifier": "Girl:Denim:Destructed:US;Girl:Bottoms:Denim:US;Girl:Denim:Fashion:US",
+          "min_list_price": 36.95,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:6/3/2018;TCPProductArrivalDateCanadaStore:6/3/2018;TCPSwatchesCanadaStore:2110139_1977#LT DIAMOND WASH;TCPSwatchesUSStore:2110139_1977#LT DIAMOND WASH;TCPMerchantTagUSStore:50% OFF;TCPMerchantTagCanadaStore:50% OFF",
+          "imagename": "2110139_1977",
+          "sort_49004": 200230,
+          "style_long_description": "<li>Made of 92% cotton/7% T-400 lycra/1% spandex denim in our Light Diamond Wash</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Five-pocket styling in a super skinny fit with high waist</li><li>Rips at front with whiskering and handsanding for a destructed, lived-in look</li><li>Belt loops</li><li>Unfinished raw hem</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "6/3/2018",
+          "age_group": "AB_Big Kid (4 - 18)",
+          "TCPColor": "DENIM",
+          "auxdescription": "LT DIAMOND WASH",
+          "newest_score": 1527984000,
+          "TCPSwatchesCanadaStore": "2110139_1977#LT DIAMOND WASH",
+          "product_long_description": "<li>Made of 92% cotton/7% T-400 lycra/1% spandex denim in our Light Diamond Wash</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Five-pocket styling in a super skinny fit with high waist</li><li>Rips at front with whiskering and handsanding for a destructed, lived-in look</li><li>Belt loops</li><li>Unfinished raw hem</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPMerchantTagUSStore": "50% OFF",
+          "TCPMerchantTagCanadaStore": "50% OFF",
+          "TCPProductArrivalDateUSStore": "6/3/2018",
+          "TCPInventoryFlagUSStore": "1",
+          "style_name": "Girls Destructed High Waist Super Skinny Jeans",
+          "style_partno": "2110139",
+          "TCPSwatchesUSStore": "2110139_1977#LT DIAMOND WASH",
+          "product_name": "Girls Destructed High Waist Super Skinny Jeans",
+          "seo_token": "Girls-Destructed-High-Waist-Super-Skinny-Jeans-2110139-1977",
+          "sort_420015": 300011,
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 18.48,
+          "catgroup_id_sequence": "448501_11;420073_230;453520_10",
+          "prodpartno": "2110139_1977",
+          "updatedate": "2018-08-05 14:17:38",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "1131323",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2110139_1977.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 - $19.99",
+          "unbxd_entity_tokens": [
+            "jean",
+            "not-so-basic"
+          ],
+          "unbxd_prodpartno": "2110139_1977",
+          "unbxd_special_category": [
+            "Denim",
+            "Destructed",
+            "Bottoms",
+            "Denim",
+            "Denim",
+            "Fashion Denim"
+          ],
+          "catgroup_id": "448501;420073;453520",
+          "categoryLinkMap": [
+            "Girl>Denim>Destructed~girls-destructed-jeans~448501",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073",
+            "Girl>Denim>Fashion Denim~~453520"
+          ],
+          "timeStamp_unbxd": 1533648632313,
+          "unbxdFeedId": "301f372c-7db2-4476-9c84-83fa68c7f7c1",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Destructed",
+            "Fashion Denim",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Denim>Destructed",
+            "Girl>Denim>Fashion Denim"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Denim>Destructed",
+            "Girl>Bottoms",
+            "Girl>Denim>Fashion Denim",
+            "Girl",
+            "Girl>Denim"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>448501|Girl>Denim>Destructed",
+            "47511>420015>453520|Girl>Denim>Fashion Denim"
+          ],
+          "u_categoryPathId": [
+            "420015",
+            "47511",
+            "47511>49004>420073",
+            "47511>49004",
+            "49004",
+            "420073",
+            "47511>420015",
+            "47511>420015>448501",
+            "448501",
+            "47511>420015>453520",
+            "453520"
+          ],
+          "1_unbxd_sku": [
+            "2110139_1977"
+          ],
+          "3_unbxd_text": [
+            "Girls Destructed High Waist Super Skinny Jeans"
+          ],
+          "1_unbxd_text": [
+            "not-so-basic",
+            "50% OFF",
+            "LT DIAMOND WASH",
+            "jean",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Bottoms",
+            "Destructed",
+            "Fashion Denim",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Destructed High Waist Super Skinny Jeans",
+          "autosuggest_unstemmed": "Girls Destructed High Waist Super Skinny Jeans",
+          "variantCount": 9,
+          "variantTotal": 9,
+          "parent_unbxd": true,
+          "_root_": "2110139_1977",
+          "score": 27.95085,
+          "variants": []
+        },
+        {
+          "uniqueId": "2110138_1976",
+          "favoritedcount": 220,
+          "product_short_description": "Your fashionista will love the faux pearl embellishments on these stylish jeans.",
+          "style_partno_unbxd": "2110138",
+          "catgroup_identifier": "Girl:NewArrivals:US;Girl:Denim:Destructed:US;Girl:Bottoms:Denim:US",
+          "min_list_price": 42.95,
+          "list_of_attributes": "TCPProductIndUSStore:New Arrivals;TCPProductIndCanadaStore:New Arrivals;TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:7/15/2018;TCPProductArrivalDateCanadaStore:7/15/2018;TCPSwatchesCanadaStore:2110138_1976#LT BLU MSTY WSH;TCPSwatchesUSStore:2110138_1976#LT BLU MSTY WSH;TCPMerchantTagUSStore:50% OFF;TCPMerchantTagCanadaStore:50% OFF",
+          "imagename": "2110138_1976",
+          "sort_49004": 200230,
+          "categoryLinkMap": [
+            "Girl>New Arrivals~girls-new-arrivals~447016",
+            "Girl>Denim>Destructed~girls-destructed-jeans~448501",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073"
+          ],
+          "TCPProductIndCanadaStore": "New Arrivals",
+          "age_group": "AB_Big Kid (4 - 18)",
+          "TCPColor": "DENIM",
+          "auxdescription": "LT BLU MSTY WSH",
+          "newest_score": 1531612800,
+          "TCPSwatchesCanadaStore": "2110138_1976#LT BLU MSTY WSH",
+          "product_long_description": "<li>Made of 92% cotton/7% lycra/1% spandex denim</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Rips at front with whiskering and handsanding for a destructed, lived-in look</li><li>Five-pocket styling</li><li>Faux pearl embellishments at front</li><li>Unfinished raw hem</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPMerchantTagUSStore": "50% OFF",
+          "TCPMerchantTagCanadaStore": "50% OFF",
+          "TCPProductArrivalDateUSStore": "7/15/2018",
+          "TCPProductIndUSStore": "New Arrivals",
+          "style_name": "Girls Destructed Denim Faux Pearl Skinny Jeans",
+          "style_partno": "2110138",
+          "TCPSwatchesUSStore": "2110138_1976#LT BLU MSTY WSH",
+          "product_name": "Girls Destructed Denim Faux Pearl Skinny Jeans",
+          "sort_420015": 300015,
+          "seo_token": "Girls-Destructed-Denim-Faux-Pearl-Skinny-Jeans-2110138-1976",
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 21.48,
+          "catgroup_id_sequence": "447016_100;448501_15;420073_230",
+          "prodpartno": "2110138_1976",
+          "updatedate": "2018-08-05 14:17:38",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "1144781",
+          "TCPProductArrivalDateCanadaStore": "7/15/2018",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2110138_1976.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$20 - $29.99",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "embellishments",
+            "stylish"
+          ],
+          "unbxd_prodpartno": "2110138_1976",
+          "unbxd_special_category": [
+            "New Arrivals",
+            "Denim",
+            "Destructed",
+            "Bottoms",
+            "Denim"
+          ],
+          "catgroup_id": "447016;448501;420073",
+          "style_long_description": "<li>Made of 92% cotton/7% lycra/1% spandex denim</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Rips at front with whiskering and handsanding for a destructed, lived-in look</li><li>Five-pocket styling</li><li>Faux pearl embellishments at front</li><li>Unfinished raw hem</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "timeStamp_unbxd": 1533646744935,
+          "unbxdFeedId": "850b7969-1ac0-4784-8544-5f7078d151b2",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Bottoms",
+            "New Arrivals",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Destructed",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>New Arrivals",
+            "Girl>Bottoms",
+            "Girl>Denim"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Denim>Destructed"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>New Arrivals",
+            "Girl>Denim>Destructed",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>447016|Girl>New Arrivals"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>448501|Girl>Denim>Destructed"
+          ],
+          "u_categoryPathId": [
+            "420015",
+            "47511",
+            "47511>49004>420073",
+            "47511>49004",
+            "49004",
+            "420073",
+            "47511>420015",
+            "447016",
+            "47511>420015>448501",
+            "448501",
+            "47511>447016"
+          ],
+          "1_unbxd_sku": [
+            "2110138_1976"
+          ],
+          "3_unbxd_text": [
+            "Girls Destructed Denim Faux Pearl Skinny Jeans"
+          ],
+          "1_unbxd_text": [
+            "stylish",
+            "embellishments",
+            "50% OFF",
+            "New Arrivals",
+            "LT BLU MSTY WSH",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Bottoms",
+            "Destructed",
+            "New Arrivals",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Destructed Denim Faux Pearl Skinny Jeans",
+          "autosuggest_unstemmed": "Girls Destructed Denim Faux Pearl Skinny Jeans",
+          "variantCount": 9,
+          "variantTotal": 9,
+          "parent_unbxd": true,
+          "_root_": "2110138_1976",
+          "score": 25.267567,
+          "variants": []
+        },
+        {
+          "product_short_description": "Destroyed denim with a stretchy feel she'll totally obsess over!",
+          "style_partno_unbxd": "2109255",
+          "catgroup_identifier": "Girl:Denim:Destructed:US;Girl:Bottoms:Denim:US",
+          "min_list_price": 34.95,
+          "list_of_attributes": "TCPInventoryFlagUSStore:1;TCPInventoryFlagCanadaStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:6/24/2018;TCPProductArrivalDateCanadaStore:6/24/2018;TCPSwatchesCanadaStore:2109255_757#BLACK WASH;TCPSwatchesUSStore:2109255_757#BLACK WASH;TCPMerchantTagUSStore:50% OFF;TCPMerchantTagCanadaStore:50% OFF",
+          "imagename": "2109255_757",
+          "sort_49004": 200230,
+          "style_long_description": "<li>Made of 64% cotton/35% polyester/1% spandex denim</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Handsanding and rips at front for a lived-in look</li><li>Faux pockets at front; patch back pockets</li><li>Unfinished raw hem</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPProductArrivalDateCanadaStore": "6/24/2018",
+          "age_group": "AB_Big Kid (4 - 18)",
+          "TCPColor": "DENIM",
+          "auxdescription": "BLACK WASH",
+          "newest_score": 1529798400,
+          "TCPSwatchesCanadaStore": "2109255_757#BLACK WASH",
+          "product_long_description": "<li>Made of 64% cotton/35% polyester/1% spandex denim</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Handsanding and rips at front for a lived-in look</li><li>Faux pockets at front; patch back pockets</li><li>Unfinished raw hem</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPMerchantTagUSStore": "50% OFF",
+          "TCPMerchantTagCanadaStore": "50% OFF",
+          "TCPProductArrivalDateUSStore": "6/24/2018",
+          "TCPInventoryFlagUSStore": "1",
+          "style_name": "Girls Destructed Denim Skinny Jeans",
+          "uniqueId": "2109255_757",
+          "style_partno": "2109255",
+          "TCPSwatchesUSStore": "2109255_757#BLACK WASH",
+          "product_name": "Girls Destructed Denim Skinny Jeans",
+          "seo_token": "Girls-Destructed-Denim-Skinny-Jeans-2109255-757",
+          "sort_420015": 300016,
+          "TCPInventoryFlagCanadaStore": "1",
+          "min_offer_price": 17.48,
+          "catgroup_id_sequence": "448501_16;420073_230",
+          "prodpartno": "2109255_757",
+          "updatedate": "2018-08-05 14:17:37",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "1144741",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2109255_757.jpg"
+          ],
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 - $19.99",
+          "favoritedcount": 170,
+          "unbxd_entity_tokens": [
+            "stretchy",
+            "obsess"
+          ],
+          "unbxd_prodpartno": "2109255_757",
+          "unbxd_special_category": [
+            "Denim",
+            "Destructed",
+            "Bottoms",
+            "Denim"
+          ],
+          "catgroup_id": "448501;420073",
+          "categoryLinkMap": [
+            "Girl>Denim>Destructed~girls-destructed-jeans~448501",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073"
+          ],
+          "timeStamp_unbxd": 1533631264051,
+          "unbxdFeedId": "80827dec-ca71-42fe-ad59-4a98b3b25559",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Bottoms",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Destructed",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>Bottoms",
+            "Girl>Denim"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Denim>Destructed"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>Denim>Destructed",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>448501|Girl>Denim>Destructed"
+          ],
+          "u_categoryPathId": [
+            "420015",
+            "47511",
+            "47511>49004>420073",
+            "47511>49004",
+            "49004",
+            "420073",
+            "47511>420015",
+            "47511>420015>448501",
+            "448501"
+          ],
+          "1_unbxd_sku": [
+            "2109255_757"
+          ],
+          "3_unbxd_text": [
+            "Girls Destructed Denim Skinny Jeans"
+          ],
+          "1_unbxd_text": [
+            "obsess",
+            "stretchy",
+            "BLACK WASH",
+            "50% OFF",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Bottoms",
+            "Destructed",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Destructed Denim Skinny Jeans",
+          "autosuggest_unstemmed": "Girls Destructed Denim Skinny Jeans",
+          "variantCount": 9,
+          "variantTotal": 9,
+          "parent_unbxd": true,
+          "_root_": "2109255_757",
+          "score": 26.161995,
+          "variants": []
+        },
+        {
+          "product_short_description": "Make room for her new embellished denim BFF!",
+          "style_partno_unbxd": "2110159",
+          "catgroup_identifier": "Girl:NewArrivals:US;Girl:Denim:Destructed:US;Girl:Bottoms:Denim:US",
+          "min_list_price": 42.95,
+          "list_of_attributes": "TCPProductIndUSStore:New Arrivals;TCPInventoryFlagUSStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:7/29/2018;TCPProductArrivalDateCanadaStore:7/29/2018;TCPSwatchesCanadaStore:ImagePath;TCPSwatchesUSStore:2110159_757#BLACK WASH;TCPMerchantTagUSStore:50% OFF;TCPMerchantTagCanadaStore:50% OFF",
+          "imagename": "2110159_757",
+          "sort_49004": 200230,
+          "categoryLinkMap": [
+            "Girl>New Arrivals~girls-new-arrivals~447016",
+            "Girl>Denim>Destructed~girls-destructed-jeans~448501",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073"
+          ],
+          "TCPColor": "DENIM",
+          "age_group": "AB_Big Kid (4 - 18)",
+          "TCPProductArrivalDateCanadaStore": "7/29/2018",
+          "auxdescription": "BLACK WASH",
+          "newest_score": 1532822400,
+          "TCPSwatchesCanadaStore": "ImagePath",
+          "product_long_description": "<li>Made of 98% cotton/2% spandex denim</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Handsanding and rips at front for a lived-in look</li><li>Five-pocket styling</li><li>Allover rhinestud embellishments at front</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPMerchantTagUSStore": "50% OFF",
+          "TCPMerchantTagCanadaStore": "50% OFF",
+          "TCPProductArrivalDateUSStore": "7/29/2018",
+          "TCPProductIndUSStore": "New Arrivals",
+          "style_name": "Girls Embellished Destructed Denim Jeans",
+          "uniqueId": "2110159_757",
+          "style_partno": "2110159",
+          "TCPSwatchesUSStore": "2110159_757#BLACK WASH",
+          "product_name": "Girls Embellished Destructed Denim Jeans",
+          "sort_420015": 300017,
+          "seo_token": "Girls-Embellished-Destructed-Denim-Jeans-2110159-757",
+          "min_offer_price": 21.48,
+          "catgroup_id_sequence": "447016_100;448501_17;420073_230",
+          "prodpartno": "2110159_757",
+          "updatedate": "2018-08-05 14:17:38",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "1157209",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2110159_757.jpg"
+          ],
+          "favoritedcount": 34,
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$20 - $29.99",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "her"
+          ],
+          "unbxd_prodpartno": "2110159_757",
+          "unbxd_special_category": [
+            "New Arrivals",
+            "Denim",
+            "Destructed",
+            "Bottoms",
+            "Denim"
+          ],
+          "catgroup_id": "447016;448501;420073",
+          "style_long_description": "<li>Made of 98% cotton/2% spandex denim</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Handsanding and rips at front for a lived-in look</li><li>Five-pocket styling</li><li>Allover rhinestud embellishments at front</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "timeStamp_unbxd": 1533631263492,
+          "unbxdFeedId": "80827dec-ca71-42fe-ad59-4a98b3b25559",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Bottoms",
+            "New Arrivals",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Destructed",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>New Arrivals",
+            "Girl>Bottoms",
+            "Girl>Denim"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Denim>Destructed"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>New Arrivals",
+            "Girl>Denim>Destructed",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>447016|Girl>New Arrivals"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>448501|Girl>Denim>Destructed"
+          ],
+          "u_categoryPathId": [
+            "420015",
+            "47511",
+            "47511>49004>420073",
+            "47511>49004",
+            "49004",
+            "420073",
+            "47511>420015",
+            "447016",
+            "47511>420015>448501",
+            "448501",
+            "47511>447016"
+          ],
+          "1_unbxd_sku": [
+            "2110159_757"
+          ],
+          "3_unbxd_text": [
+            "Girls Embellished Destructed Denim Jeans"
+          ],
+          "1_unbxd_text": [
+            "BLACK WASH",
+            "her",
+            "50% OFF",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Bottoms",
+            "Destructed",
+            "New Arrivals",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Embellished Destructed Denim Jeans",
+          "autosuggest_unstemmed": "Girls Embellished Destructed Denim Jeans",
+          "variantCount": 9,
+          "variantTotal": 9,
+          "parent_unbxd": true,
+          "_root_": "2110159_757",
+          "score": 12.745587,
+          "variants": []
+        },
+        {
+          "product_short_description": "Her new favorite denim jean come with floral details she'll totally obsess over!",
+          "style_partno_unbxd": "2110544",
+          "catgroup_identifier": "Girl:NewArrivals:US;Girl:Denim:Destructed:US;Girl:Bottoms:Denim:US",
+          "min_list_price": 39.95,
+          "list_of_attributes": "TCPProductIndUSStore:New Arrivals;TCPInventoryFlagUSStore:1;TCPColor:DENIM;TCPInventoryMessageCanadaStore:NO_INVENTORY_MESSAGE;TCPInventoryMessageUSStore:NO_INVENTORY_MESSAGE;TCPProductArrivalDateUSStore:7/29/2018;TCPProductArrivalDateCanadaStore:7/29/2018;TCPSwatchesCanadaStore:ImagePath;TCPSwatchesUSStore:2110544_1988#MD MAYA WASH;TCPMerchantTagUSStore:50% OFF;TCPMerchantTagCanadaStore:50% OFF",
+          "imagename": "2110544_1988",
+          "sort_49004": 200230,
+          "categoryLinkMap": [
+            "Girl>New Arrivals~girls-new-arrivals~447016",
+            "Girl>Denim>Destructed~girls-destructed-jeans~448501",
+            "Girl>Bottoms>Denim~girls-bottoms-denim~420073"
+          ],
+          "TCPColor": "DENIM",
+          "age_group": "AB_Big Kid (4 - 18)",
+          "TCPProductArrivalDateCanadaStore": "7/29/2018",
+          "auxdescription": "MD MAYA WASH",
+          "newest_score": 1532822400,
+          "TCPSwatchesCanadaStore": "ImagePath",
+          "product_long_description": "<li>Made of 92% cotton/7% lycra/1% spandex denim</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Handsanding and rips at front for a lived-in look</li><li>Five-pocket styling</li><li>Floral embroidery at front</li><li>Unfinished raw hem</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "TCPMerchantTagUSStore": "50% OFF",
+          "TCPMerchantTagCanadaStore": "50% OFF",
+          "TCPProductArrivalDateUSStore": "7/29/2018",
+          "TCPProductIndUSStore": "New Arrivals",
+          "style_name": "Girls Embroidered Rose Destructed Denim Jeans",
+          "uniqueId": "2110544_1988",
+          "style_partno": "2110544",
+          "TCPSwatchesUSStore": "2110544_1988#MD MAYA WASH",
+          "product_name": "Girls Embroidered Rose Destructed Denim Jeans",
+          "sort_420015": 300018,
+          "seo_token": "Girls-Embroidered-Rose-Destructed-Denim-Jeans-2110544-1988",
+          "min_offer_price": 19.98,
+          "catgroup_id_sequence": "447016_100;448501_18;420073_230",
+          "prodpartno": "2110544_1988",
+          "updatedate": "2018-08-05 14:17:39",
+          "TCPInventoryMessageUSStore": "NO_INVENTORY_MESSAGE",
+          "productid": "1157238",
+          "gender": [
+            "Girl"
+          ],
+          "imageUrl": [
+            "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2110544_1988.jpg"
+          ],
+          "favoritedcount": 91,
+          "TCPInventoryMessageCanadaStore": "NO_INVENTORY_MESSAGE",
+          "unbxd_price_range": "$10 - $19.99",
+          "TCPInventoryFlagUSStore": "1",
+          "unbxd_entity_tokens": [
+            "jean",
+            "details",
+            "obsess"
+          ],
+          "unbxd_prodpartno": "2110544_1988",
+          "unbxd_special_category": [
+            "New Arrivals",
+            "Denim",
+            "Destructed",
+            "Bottoms",
+            "Denim"
+          ],
+          "catgroup_id": "447016;448501;420073",
+          "style_long_description": "<li>Made of 92% cotton/7% lycra/1% spandex denim</li><li>Snap closure with zip fly for sizes 4-7; button closure with zip fly for sizes 8-16</li><li>Handsanding and rips at front for a lived-in look</li><li>Five-pocket styling</li><li>Floral embroidery at front</li><li>Unfinished raw hem</li><li>Inner adjustable waist tabs for a custom fit</li><li>Pre-washed for added softness and to reduce shrinkage</li><li>Imported</li>",
+          "timeStamp_unbxd": 1533631263946,
+          "unbxdFeedId": "80827dec-ca71-42fe-ad59-4a98b3b25559",
+          "categoryPath1": [
+            "Girl"
+          ],
+          "categoryPath2": [
+            "Bottoms",
+            "New Arrivals",
+            "Denim"
+          ],
+          "categoryPath3": [
+            "Destructed",
+            "Denim"
+          ],
+          "categoryPath1_fq": [
+            "Girl"
+          ],
+          "categoryPath2_fq": [
+            "Girl>New Arrivals",
+            "Girl>Bottoms",
+            "Girl>Denim"
+          ],
+          "categoryPath3_fq": [
+            "Girl>Bottoms>Denim",
+            "Girl>Denim>Destructed"
+          ],
+          "categoryPath": [
+            "Girl>Bottoms>Denim",
+            "Girl>New Arrivals",
+            "Girl>Denim>Destructed",
+            "Girl>Bottoms",
+            "Girl",
+            "Girl>Denim"
+          ],
+          "categoryPath1_catMap": [
+            "47511|Girl"
+          ],
+          "categoryPath2_catMap": [
+            "47511>49004|Girl>Bottoms",
+            "47511>420015|Girl>Denim",
+            "47511>447016|Girl>New Arrivals"
+          ],
+          "categoryPath3_catMap": [
+            "47511>49004>420073|Girl>Bottoms>Denim",
+            "47511>420015>448501|Girl>Denim>Destructed"
+          ],
+          "u_categoryPathId": [
+            "420015",
+            "47511",
+            "47511>49004>420073",
+            "47511>49004",
+            "49004",
+            "420073",
+            "47511>420015",
+            "447016",
+            "47511>420015>448501",
+            "448501",
+            "47511>447016"
+          ],
+          "1_unbxd_sku": [
+            "2110544_1988"
+          ],
+          "3_unbxd_text": [
+            "Girls Embroidered Rose Destructed Denim Jeans"
+          ],
+          "1_unbxd_text": [
+            "obsess",
+            "MD MAYA WASH",
+            "50% OFF",
+            "jean",
+            "details",
+            "Girl"
+          ],
+          "doctype": "POPULAR_PRODUCTS",
+          "2_unbxd_text": [
+            "Bottoms",
+            "Destructed",
+            "New Arrivals",
+            "Denim",
+            "DENIM"
+          ],
+          "autosuggest": "Girls Embroidered Rose Destructed Denim Jeans",
+          "autosuggest_unstemmed": "Girls Embroidered Rose Destructed Denim Jeans",
+          "variantCount": 9,
+          "variantTotal": 9,
+          "parent_unbxd": true,
+          "_root_": "2110544_1988",
+          "score": 19.901005,
+          "variants": []
+        }
+      ]
+    },
+    "searchMetaData": {
+      "status": 0,
+      "queryTime": 58,
+      "queryParams": {
+        "facet.multiselect": "true",
+        "pagetype": "boolean",
+        "log.response": "false",
+        "module.exclude": "personalization",
+        "taxonomy.removeProd": "true",
+        "popularProducts.count": "0",
+        "start": "0",
+        "alternate.op": "true",
+        "req.rm.asterix": "true",
+        "q.op": "AND",
+        "p-id": "categoryPathId:\"47511>420015\"",
+        "sort": "sort_420015 asc,pop_score desc",
+        "variants": "true",
+        "rows": "20",
+        "version": "V2",
+        "enableTaxonomy": "false",
+        "variants.relevant": "false",
+        "variants.count": "0",
+        "req.rm.promotionEngine": "true",
+        "selectedfacet": "true",
+        "user.behaviour": "true",
+        "enablePopularity": "true"
+      }
+    },
+    "facets": {
+      "range": {
+        "list": [
+          {
+            "facetName": "min_offer_price",
+            "values": {
+              "counts": [
+                "0.0",
+                36
+              ],
+              "gap": 25,
+              "start": 0,
+              "end": 1000
+            },
+            "displayName": "Price",
+            "position": 4
+          }
+        ]
+      },
+      "text": {
+        "list": [
+          {
+            "facetName": "unbxd_price_range_uFilter",
+            "filterField": "unbxd_price_range_uFilter",
+            "values": [
+              "$10 - $19.99",
+              19,
+              "$10 and Under",
+              15,
+              "$20 - $29.99",
+              2
+            ],
+            "displayName": "Price",
+            "position": 1
+          },
+          {
+            "facetName": "v_tcpsize_uFilter",
+            "filterField": "v_tcpsize_uFilter",
+            "values": [
+              "FA_4",
+              36,
+              "FE_5",
+              36,
+              "FG_6",
+              35,
+              "FI_6X/7",
+              35,
+              "FN_8",
+              35,
+              "FQ_10",
+              35,
+              "FU_12",
+              35,
+              "FW_14",
+              35,
+              "FX_16",
+              35,
+              "FZ_4S",
+              15,
+              "GB_5S",
+              14,
+              "GC_6S",
+              14,
+              "GD_6X/7S",
+              14,
+              "GH_8S",
+              14,
+              "GI_10S",
+              14,
+              "GJ_12S",
+              14,
+              "GK_14S",
+              14,
+              "GL_16S",
+              14,
+              "GN_4P",
+              15,
+              "GO_5P",
+              14,
+              "GQ_6P",
+              14,
+              "GR_6X/7P",
+              14,
+              "GT_8P",
+              14,
+              "GU_10P",
+              14,
+              "GV_12P",
+              14,
+              "GX_14P",
+              13,
+              "GY_16P",
+              14
+            ],
+            "displayName": "Size",
+            "position": 2
+          },
+          {
+            "facetName": "v_tcpfit_uFilter",
+            "filterField": "v_tcpfit_uFilter",
+            "values": [
+              "Plus",
+              15,
+              "Regular",
+              15,
+              "Slim",
+              15
+            ],
+            "displayName": "Fit",
+            "position": 3
+          },
+          {
+            "facetName": "TCPColor_uFilter",
+            "filterField": "TCPColor_uFilter",
+            "values": [
+              "DENIM",
+              29,
+              "PURPLE",
+              3,
+              "PINK",
+              2,
+              "BLUE",
+              1,
+              "GREEN",
+              1
+            ],
+            "displayName": "Color",
+            "position": 5
+          },
+          {
+            "facetName": "gender_uFilter",
+            "filterField": "gender_uFilter",
+            "values": [
+              "Girl",
+              36
+            ],
+            "displayName": "Gender",
+            "position": 6
+          },
+          {
+            "facetName": "age_group_uFilter",
+            "filterField": "age_group_uFilter",
+            "values": [
+              "AB_Big Kid (4 - 18)",
+              36
+            ],
+            "displayName": "Size Range",
+            "position": 7
+          },
+          {
+            "facetName": "categoryPath2_uFilter",
+            "filterField": "categoryPath2_uFilter",
+            "values": [
+              "Bottoms",
+              36,
+              "Denim",
+              36,
+              "Extended Sizes",
+              15,
+              "New Arrivals",
+              4,
+              "Online Only",
+              2
+            ],
+            "displayName": "Category",
+            "position": 8
+          }
+        ]
+      }
+    },
+    "banner": {
+      "banners": [
+        {
+          "bannerHtml": "<!-- Girl-->\n<style>\n    .A-BDoublePoints {\n        display: none\n    }\n    \n    .A-BBonusPoints {\n        display: none\n    }\n    \n    .bs-img {\n        width: 100%\n    }\n    \n    .denim-grid a {\n        color: #fff\n    }\n    \n    .visible-xs-lb {\n        display: none\n    }\n    \n    .product-banner-full-width img {\n        width: 100%;\n        max-width: 100%\n    }\n    \n    .denim-div {\n        width: 100%;\n        position: relative\n    }\n    \n    .denim-grid {\n        width: 100%\n    }\n    \n    .denim-grid-img {\n        margin-left: 1px;\n        min-width: 10%;\n        max-width: 18.7%\n    }\n    \n    .denim-grid-img-a {\n        width: 3.8%;\n    }\n    \n    .layer-one {\n        display: none;\n    }\n    \n    #sbsm img {\n        position: absolute;\n        height: 393px;\n    }\n    /* start mobile scroller */\n    \n    .scrolling-wrapper {\n        overflow-x: scroll;\n        overflow-y: hidden;\n        white-space: nowrap;\n        margin-left: 49px;\n    }\n    \n    .scrolling-wrapper-flexbox {\n        display: flex;\n        flex-wrap: nowrap;\n        overflow-x: auto;\n    }\n    \n    .card {\n        width: 229px;\n        height: 393px;\n        background: black;\n        display: inline-block;\n        flex: 0 0 auto;\n        margin-right: 5px;\n    }\n    \n    .scrolling-wrapper,\n    .scrolling-wrapper-flexbox {\n        height: 393px;\n        width: 100%;\n    }\n    \n    .scrolling-wrapper {\n        -webkit-overflow-scrolling: touch;\n    }\n    /* end mobile scroller */\n    \n    @media screen and (max-width:1300px) {\n        .denim-grid-img {\n            width: 18%;\n        }\n        .denim-grid-img-a {\n            width: 3.67%;\n        }\n    }\n    \n    @media screen and (max-width:768px) {\n        .denim-div {\n            display: none\n        }\n        .visible-xs-lb {\n            display: block\n        }\n        .hidden-xs-lb {\n            display: none\n        }\n    }\n    \n    @media screen and (max-width: 720px) {\n        .denim-grid {\n            display: none;\n        }\n        .layer-one {\n            display: block;\n        }\n    }\n</style>\n\n<div class=\"layer-one\">\n\n    <div id=\"sbsm\"><img src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/SHOP_BY_FIT_BTS.jpg\"> </div>\n    <div class=\"scrolling-wrapper\">\n        <div class=\"card\">\n            <a href=\"/us/c/girls-super-skinny-jeans?icid=plp_s1_q_g_070518_superskinny\"><img src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_07m.jpg\" alt=\"#\"></a>\n        </div>\n        <div class=\"card\">\n            <a href=\"/us/c/girls-skinny-jeans?icid=plp_s2_q_g_070518_skinny\"><img src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_08m.jpg\" alt=\"#\"></a>\n        </div>\n        <div class=\"card\">\n            <a href=\"/us/c/girls-bootcut-jeans?icid=plp_s3_q_g_070518_bootcut\"><img src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_09m.jpg\" alt=\"#\"></a>\n        </div>\n        <div class=\"card\">\n            <a href=\"/us/c/girls-jeggings?icid=plp_s5_q_g_070518_jegging\"><img src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_10m.jpg\" alt=\"#\"></a>\n        </div>\n        <div class=\"card\">\n            <a href=\"/us/c/girls-destructed-jeans?icid=plp_s4_q_g_070518_destructed\"><img src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_11m.jpg\" alt=\"#\"></a>\n        </div>\n    </div>\n\n</div>\n\n<div class=\"denim-grid\">\n    <img alt=\"The Denim Place. | Own your denim style.\" class=\"denim-grid-img-a hidden-xs-lb\" src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_01.jpg\">\n    <img alt=\"The Denim Place. | Own your denim style.\" class=\"denim-grid-img-a visible-xs-lb\" src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_01.jpg\">\n    <a href=\"/us/c/girls-super-skinny-jeans?icid=plp_s1_q_g_070518_superskinny\"><img alt=\"The Denim Place | Shop Shop our denim styles: Super Skinny | Own your denim style.\" class=\"denim-grid-img\" src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_02v2.jpg\"> </a>\n    <a href=\"/us/c/girls-skinny-jeans?icid=plp_s2_q_g_070518_skinny\"><img alt=\"The Denim Place | Shop our denim styles: Skinny | Own your denim style.\" class=\"denim-grid-img\" src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_03v2.jpg\"> </a><span>\n        <a href=\"/us/c/girls-bootcut-jeans?icid=plp_s3_q_g_070518_bootcut\"><img alt=\"The Denim Place | Shop our denim styles: Bootcut | Own your denim style.\" class=\"denim-grid-img\" src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_04v2.jpg\"> </a>\n        <a href=\"/us/c/girls-jeggings?icid=plp_s5_q_g_070518_jegging\"><img alt=\"The Denim Place | Shop our denim styles: Jeggings | Own your denim style.\" class=\"denim-grid-img\" src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_05v2.jpg\"> </a>\n        <a href=\"/us/c/girls-destructed-jeans?icid=plp_s4_q_g_070518_destructed\"><img alt=\"The Denim Place | Shop our denim styles: Destructed  | Own your denim style.\" class=\"denim-grid-img\" src=\"/wcsstore/GlobalSAS/images/tcp/bts_denim_banner/denim-menu-static_g_06v2.jpg\"></a></span>\n</div>"
+        }
+      ]
+    }
+  }
