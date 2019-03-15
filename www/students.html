@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>About</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+    <script src="main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <ul>
+        <li>
+            <a href="/">Home</a>
+            <a href="/contact">Contact</a>
+            <a href="/about">About</a>
+            <a href="/products">Product Search</a>
+            <a href="/students">Students</a>
+        </li>
+    </ul>
+    <h1>Students</h1>
+    <ul id="students"></ul>
+</body>
+</html>
+
+<script>
+    function onDelete(id){
+        fetch('/api/students/' + id,{
+            method:'DELETE'
+        })     
+        .then((response)=>response.json())
+        .then((student)=>{   
+            alert('Student is deleted')
+        });
+    }
+
+    //React version
+    // <button onClick={()=>{
+    //     this.delete(student.id)
+    // }}>Delete</button>
+
+    $(document).ready(()=>{
+        // $.ajax({
+        //     url:'/api/products/' + keyword,
+        //     success:function(products){
+        //         //alert(JSON.stringify(data))
+        //         products.forEach((product)=>{
+        //             $("#products").append('<li>' + product.product_short_description + '</li>')
+        //         })
+        //     },
+        //     error:function(err){
+        //         alert(JSON.stringify(err))
+        //     }
+        // })
+
+        
+
+        fetch('/api/students')
+        .then((response)=>response.json())
+        .then((students)=>{
+            console.log(students)
+            var studentLis=students.map((student)=>{
+                return `<li>${student.name}<button onclick="javascript:onDelete('${student._id}')">Delete</button></li>`
+            })
+
+            $("#students").append(studentLis.join(''));
+        })
+    })
+</script>

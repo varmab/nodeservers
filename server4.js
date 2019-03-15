@@ -1,4 +1,5 @@
 var express = require("express");
+var path=require("path")
 var app = express();
 
 var bodyParser = require('body-parser');
@@ -6,6 +7,24 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 
 var db = require('./db');
+
+app.use(express.static("www"));
+
+app.get("/",(req,res)=>{
+    res.sendFile(path.join(__dirname, '/www', '/index.html'));
+})
+
+app.get("/contact",(req,res)=>{
+    res.sendFile(path.join(__dirname, '/www', 'contact.html'));
+})
+
+app.get("/about",(req,res)=>{
+    res.sendFile(path.join(__dirname, '/www', 'about.html'));
+})
+
+app.get("/students",(req,res)=>{
+    res.sendFile(path.join(__dirname, '/www', 'students.html'));
+})
 
 app.get("/api/students", (req, res) => {
     db.Student.find({}, (err, students) => {
