@@ -12,7 +12,6 @@ app.get("/api/products",(req,res)=>{
 })
 
 // /api/products/computer
-
 app.get('/api/products/:keyword',(req,res)=>{
     var keyword=req.params.keyword;
 
