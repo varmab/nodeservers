@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
     "l": "^0.6.0",
-    "mongoose": "^5.4.19"
+    "mongoose": "^5.4.19",
+    "socket.io": "^2.2.0"
   }
 }
