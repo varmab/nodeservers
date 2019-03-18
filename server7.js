@@ -28,11 +28,11 @@ var resolvers={
         })
     },
 
-    createStudent:(_,{name,age})=>{
+    createStudent:({name,age})=>{
         return new Promise((resolve,reject)=>{
             var newStudent=new db.Student({
-                name:name,
-                age:age
+                name,
+                age
             })
 
             newStudent.save((err,student)=>{

@@ -19,7 +19,7 @@ var root = {
   user: (_,args) => {
     //query database by args.id and return result
     return {id:1, name:"Varma"};
-  },
+  }
 };
 
 var app = express();
